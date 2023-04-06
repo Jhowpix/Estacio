@@ -1,0 +1,128 @@
+Jhonatan de Oliveira Silva,                                       MATRICULA: 202303831935
+
+01. Internet seria o nome que se da ao sistema global de redes de computadores.
+    Redes de computadores sao tudo e todos os aparelhos interligados na redes que se comunicao  
+    por transmissao de dados.
+
+02. Host seria tudo e qualquer aparelho conectado a rede.
+    Um enlace seria os meios de conectar estes hosts a internet.
+
+03. Backbone é o cabeamento que faz a ligacao intercontinental possibilitando a transmissao de dados mundialmente.
+
+04. Dominio é um endereco na rede.
+
+05. Protocolos sao o conjunto de regras que regem a internet o modo como que os
+    dados trafegam nelas de modo para padronizar estes servicos.
+
+06. Comutacao de circuitos é um meio de transmicao de dados.
+   Comutacao de pacotes é um meio de transferir arquivos em formato de pacotes podendo              
+  chegar pacotes em ordem pelo mesmo caminho ou nao.
+
+07. Conexao discada usando a linha telefonica para se conectar a rede e usala para   
+transmissao de dados, por conta de usar a rede de telefonia a frequencia de dados sao mais baixas 
+do que as de servicos atuais sobre fornecimento de internet.
+
+08. Um gateway é um aparelho (hardware) que interliga duas redes que estao se comunicando com
+ protocolos diferentes, um intermidiador entre elas para tornar para anbos os lados o protocolo padrao de cada uma.
+
+09. Modem converte dados da rede para que possa ser acessados por dispositivos finais, computadores, celulares etc.
+
+10. Intranet rede de computadores privada, internet  sistema global de redes de computadores, extranet 
+sao redes privadas que permitem acesso de terceiros para uso dentro de sua area de atuacao.
+
+11. Servem para transmissao de dados dentro de um rede, sendo o Switch melhor por ter uma alta taxa de transmissao de dados.
+
+12. WAN, rede global.
+    MAN, rede regional.
+    LAN, rede local.
+    PAN, rede pessoal.
+
+13. VPN, é um modo seguro de tranmissao de dados pela rede, para ser mais especifico ela   cria um 
+caminho de conexao privada entre dois dispositivos.
+
+14. DHCP é servidor que faz o inderecamento de uma rede local para indentificar cada dispositivo desta rede.
+
+15. Servidor armazena e libera servico quando solicitado pelo  provedor provedor que gerencia estes servicos.
+
+16. ISO, é o orgao regulamentador do pradrao modelo OSI que por sua vez é o modelo base para transmissao de dados na rede.
+
+17. UDP, porque sua transmissao e mais rapida porem pode se perder alguns dados neste caminho por conta 
+justamente de ser um meio de transmissao de dados que nao tem por funcionalidade garantir a chegada dos arquivos em ordem e intactos.
+
+18. wifi e wireless sao meio de tremissao de dados por ondas ou frequencias de ondas, a diferenca que wireless 
+se destina a qualquer tipo de conexao sem fio e wi-fi é a frequencia que disponibiliza o servico de internet.
+
+19. 5GHz por ter uma alta taxa de transmissao de dados.
+
+20.DNS serve para nomear e mapear tudo e qualquer aparelho em rede para fins de enderacar o meio de comunicacao entre duas maquinas, 
+os tipos de ADBLOCK E FAMILY SHIELD terei que pesquisar melhor desculpa a falta deste conteudo.
+
+21. Estes protocolos SMTP, envia um email, IMAP e POP, recebem e baixam email.
+
+22. O melhor canal de um roteador por ter a maior frequencia de trabalho.
+
+23. Conexao cabeadas sao melhores por nao possuirem interferencias externas com tanta facilidade e por ter uma alta taxa de transferencia de dados.
+
+24. Uma internet 5G é a quinta geracao da internet, internet em 5GHz é a frequencia conque esta internet esta transmitindo os dados.
+
+25. Deixar os dados salvos em um servidor onde voce tenha acesso posteriormente.
+
+26. Um data Center serial um local onde armazenaria muitos servidores.
+
+27. Vantagem da fibra otica: Velocidade, e baixa interferencia garantindo assim o servico da rede, 
+    Desvantagem da fibra otica: Alto custo, e Manutencao.
+
+28. Cabo de par Trancado (UTP)
+    Cabo de par trancado Blindado (STP)
+    Sendo melhor o blindado por ter menos interferencias externas.
+
+29. MAC e o endereco indentificador de cada aparelho o IP e o endereco da rede os esta estes aperelho.
+
+30. Latencia e o tempo de comunicacao de um ponto ao outro.
+    para verificar sei ping siga os segintes passos:
+    no seu teclado aperte: Win + R 
+    ira abrir o: EXECUTAR
+    Em executar digite: CMD   
+    e click em: OK
+    ira abrir o prompt de comando 
+    no prompt de comando voce pode testar seu ping com qualquer pagina da internet 
+    um exemplo seria digitar: ping google.com.br 
+    em segida aperte: enter 
+
+31. Camadas OSI: APLICACAO, APRESENTACAO, SESSAO, TRANSPORTE, REDES, ENLACE E FISICA
+    Camadas TCP/IP: APLICACAO, TRANSPORTE, INTERNET E ACESSO A REDE.
+
+32. Mainframe e um computador grande com uma capacidade enorme de processamento de dados sendo 
+usados por grandes empresas e instituicoes para gerenciar suas atividades internas na rede.
+
+33. transmissao de dado mais rapida do mundo seria por fibra otica, transmitindo dados por feches de luz.
+
+34. dados é um conjunto de 8 bits que gera um dados pela tabela AscII, uma informacao é um conjunto de 
+dados que gera um informacao, e um pacote seria um conjunto de informacoes geradas e enviadas na rede.
+
+35. Sao meios de comunicao entre duas maquinas.
+    Simplex, via unica 
+    Half-duplex, duas vias
+    Full-duples, duas vias ambos os sentidos 
+
+36. Cookies sao arquivos armazenados junto com a documentacao da pagina acessada que geram mais 
+dinamismo a pagina podendo simplismente manter a pagina mais dinamica ou gerenciar dados do usuario.
+
+37. Modelo Cliente servidor, é a disponibilidade de um servico gerenciado diretamente entre o 
+servidor o a maquina que faz uma solicitacao.
+
+38. Line, Ring, Tree, Star, Mesh, fully  Connected e Bus.
+
+39. HTTP obtem arquivos na rede como o HTML, FTP responsavel pela transferencia de arquivos entre servidor e o dispositivo  
+e DNS faz o servico de correspondencia ligando os arquivos aos seus destinos.
+
+40. PROTOCOLO TCP é um servico de entregas de pacotes usado para envio de pacotes sem perdas de dados, o three-way handshake faz a conexao no TCP.
+ACK = RECONHECIMENTO
+ACK + SYN
+SYN = SINCRONIZAR
+
+
+Jhonatan de Oliveira Silva MATRICULA: 202303831935
+  
+    
+
