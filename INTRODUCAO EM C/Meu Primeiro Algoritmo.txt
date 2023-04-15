@@ -1,0 +1,29 @@
+Meu Primeiro Algoritmo   
+Jhonatan de Oliveira Silva MATRICULA: 2022303831935
+
+Estou sentado no sofá de casa e quero sair para comer alguma coisa na rua e depois voltar para casa.
+
+levantar do sofá
+caminhar ate onde esta a carteira com dinheiro 
+pegar a carteira 
+conferir o dinheiro 
+guardar  a carteira no bolso 
+caminhar ate a porta 
+abrir a porta 
+sair para fora 
+fechar a porta 
+caminhar ate a saida de casa 
+abrir o portao 
+sair para fora de casa
+fechar o portao 
+caminhar ate uma lanchonete 
+entrar na lanchonete 
+efetuar o pedido 
+pagar pelo pedido 
+pegar o pedido 
+comer o lanche  
+agradecer pelo servico 
+caminha de volta para casa
+abrir o portao 
+entrar em casa 
+fechar o portao.
